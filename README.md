@@ -37,9 +37,9 @@ ESLint, Git, [Other tools you use]
 
 3. **Rize.gg**: Social gaming platform with chat and voice features.(Tech used: Node.js, AWS, RabbitMQ, PostgreSQL).
 
-4. **Absolute Matrimony **: A professional matchmaking service. (Tech used: Node.js, MySQL, AWS).
+4. **Absolute Matrimony**: A professional matchmaking service. (Tech used: Node.js, MySQL, AWS).
 
-5. **P2P Carz **: Peer-to-peer car trading application. (Tech used: Node.js, MySQL, AWS).
+5. **P2P Carz**: Peer-to-peer car trading application. (Tech used: Node.js, MySQL, AWS).
 
 6. **Bookinclass** : Karate Kick-boxing learning app. (Tech used: Node.js, Express.js, MySQL, AWS).
 
